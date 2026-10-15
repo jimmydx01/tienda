@@ -1,4 +1,4 @@
-# Milagrro Shop
+# Milagro Shop
 
 
 Tienda en línea de demostración desarrollada con HTML, CSS y JavaScript. Permite explorar un catálogo local, filtrar productos por categoría y gestionar un carrito que se conserva en el navegador.
